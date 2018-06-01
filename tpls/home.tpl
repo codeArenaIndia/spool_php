@@ -1,0 +1,1 @@
+{include file="tpls/cards.tpl"}
